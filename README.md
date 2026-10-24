@@ -13,20 +13,9 @@ Poliquiz is a lightweight browser-based political quiz that helps users reflect 
 
 ## Project structure
 
-- `public/index.html` — app entry point
+- `index.html` — app entry point
 - `public/scripts/index.js` — quiz logic, scoring, and result generation
 - `public/styles/style.css` — visual styling and layout
-
-## Running locally
-
-Because this is a static frontend project, you can either open the HTML file directly in a browser or serve the folder locally:
-
-```bash
-cd "C:\Users\bobbi\Downloads\Prog\JavaScript\poliquiz"
-python -m http.server 8000
-```
-
-Then open: http://localhost:8000
 
 ## Notes
 
